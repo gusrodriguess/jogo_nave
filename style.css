@@ -7,4 +7,6 @@ canvas {
   margin-top: 50px;
   margin-left: 450px;
   border: 2px solid gray;
+  justify-content: center;
+  align-items: center;
 }
